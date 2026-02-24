@@ -1,0 +1,8 @@
+﻿{
+  "name": "gmail-suite",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
